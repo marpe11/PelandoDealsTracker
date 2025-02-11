@@ -66,36 +66,12 @@ Ajuste o script modificando:
 
 ---
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sugestões:
-- Adicione **notificações** (ex: Telegram/Email para novas ofertas).
-- Melhore o tratamento de erros.
-- Adicione suporte a outros sites (ex: Promobit, Zoom).
-- Otimize performance (ex: multithreading).
-
----
-
-## 📄 Licença
-
-Licenciado sob MIT License. Veja [LICENSE](LICENSE) para detalhes.  
-*Respeite os termos de uso do [Pelando.com.br](https://www.pelando.com.br).*
-
----
 
 ## 🙌 Créditos
 
 - Desenvolvido com [Selenium](https://selenium.dev), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) e [Pandas](https://pandas.pydata.org).
 - Inspirado pela necessidade de monitorar promoções automaticamente. 😉
 
----
 
-**Caça-promoções feliz!** 🛒✨
-```
 
-### Passos para usar:
-1. Crie um arquivo `README.md` no seu projeto.
-2. Copie todo o conteúdo acima e cole no arquivo.
-3. Substitua `https://github.com/seu-usuario/PelandoDealsTracker.git` pelo link real do seu repositório.
 
-Pronto! Seu projeto terá uma documentação clara e profissional. 😊
