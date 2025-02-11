@@ -1,6 +1,4 @@
-Aqui está o README em formato Markdown pronto para ser salvo no arquivo `README.md`:
 
-```markdown
 # 🚀 PelandoDealsTracker
 
 **Automated Web Scraper for Tracking Real-Time Deals from Pelando.com.br**  
